@@ -234,6 +234,6 @@ O programa está estruturado da seguinte forma:
 
 # Projeto Físico:
 
-![image.png](attachment:6cd62192-d697-4725-a7d3-ac8b62f5aab8:image.png)
+![image.png](https://github.com/DEV310107/projeto-iot/blob/main/1.jpg)
 
 ![image.png](attachment:8bb34fa5-ca4d-48f4-8e35-fd043a9accd4:image.png)
