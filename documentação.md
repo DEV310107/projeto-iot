@@ -188,7 +188,7 @@ A interface web permite o controle do sistema de forma remota. Ela exibe:
 - Um botão para alternar o funcionamento do sistema.
 - Mensagens de status para informar ao usuário o que está acontecendo.
 
-## Imagens do Protótipo
+## Montagem do Protótipo
 
 ### Protótipo Montado na Protoboard
 
@@ -199,15 +199,6 @@ As imagens acima mostram a montagem do projeto em uma protoboard, utilizando um 
 - **Resistores de 220Ω** - Para limitar a corrente nos LEDs.
 - **Jumpers e Protoboard** - Para conexões elétricas.
 - **Fonte de alimentação 5V** - Para alimentar o ESP32.
-
-
-### Funções Principais
-
-- **configurarSemaforos()** - Define os pinos dos LEDs como saída.
-- **desligarSemaforos()** - Desliga todos os LEDs.
-- **loopSemaforo()** - Controla o funcionamento dos semáforos.
-- **handleRoot()** - Exibe a página web com o status dos semáforos.
-- **handleToggle()** - Alterna entre ativado e desativado.
 
 # Projeto Físico:
 
