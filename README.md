@@ -237,3 +237,7 @@ O programa está estruturado da seguinte forma:
 ![image.png](https://github.com/DEV310107/projeto-iot/blob/main/1.jpg)
 
 ![image.png](attachment:8bb34fa5-ca4d-48f4-8e35-fd043a9accd4:image.png)
+
+
+### Simulador
+- https://wokwi.com/projects/426726437704652801 -
