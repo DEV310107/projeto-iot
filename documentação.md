@@ -1,5 +1,8 @@
 # Documentação do Projeto IoT - Sistema de Semáforos com Web Server
 
+### Simulador
+- https://wokwi.com/projects/426726437704652801
+
 ## Introdução
 
 Este projeto tem como objetivo criar um sistema de controle para três semáforos utilizando um ESP32. O dispositivo gerencia os LEDs dos semáforos e hospeda um servidor web, permitindo que o usuário controle o funcionamento dos semáforos remotamente por meio de uma interface web simples e intuitiva. Isso possibilita um gerenciamento eficiente do tráfego em tempo real.
@@ -236,8 +239,4 @@ O programa está estruturado da seguinte forma:
 
 ![image.png](https://github.com/DEV310107/projeto-iot/blob/main/1.jpg)
 
-![image.png](attachment:8bb34fa5-ca4d-48f4-8e35-fd043a9accd4:image.png)
-
-
-### Simulador
-- https://wokwi.com/projects/426726437704652801 -
+![image.png](https://github.com/DEV310107/projeto-iot/blob/main/2.jpg)
