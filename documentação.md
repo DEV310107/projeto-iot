@@ -200,32 +200,6 @@ As imagens acima mostram a montagem do projeto em uma protoboard, utilizando um 
 - **Jumpers e Protoboard** - Para conexões elétricas.
 - **Fonte de alimentação 5V** - Para alimentar o ESP32.
 
-## Conexões dos Semáforos
-
-Os LEDS foram conectados da seguinte maneira:
-
-| Semáforo | LED Verde | LED Amarelo | LED Vermelho |
-| --- | --- | --- | --- |
-| 1 | GPIO 14 | GPIO 12 | GPIO 27 |
-| 2 | GPIO 26 | GPIO 25 | GPIO 36 |
-| 3 | GPIO 35 | GPIO 32 | GPIO 34 |
-
-## Como Funciona
-
-1. O ESP32 se conecta à rede WiFi.
-2. Ele configura os pinos dos LEDs como saídas.
-3. Um servidor web é iniciado, permitindo que o usuário acesse a interface de controle.
-4. O usuário pode visualizar o estado atual dos semáforos e alternar entre ligado/desligado com um clique.
-5. O ESP32 gerencia o ciclo dos semáforos, garantindo que o trânsito flua corretamente.
-
-## Código-Fonte
-
-O programa está estruturado da seguinte forma:
-
-- **Conexão WiFi** - Para acesso remoto ao sistema.
-- **Configuração dos pinos** - Definição dos LEDs como saídas.
-- **Controle do ciclo dos semáforos** - Alternância entre verde, amarelo e vermelho.
-- **Servidor web** - Exibe a interface de controle ao usuário.
 
 ### Funções Principais
 
